@@ -17,8 +17,11 @@
 # pull another branch in main branch 
 # git pull origin <branch_name>
 # git push origin main <current_branch_name>
+# git status = for check the status(update commit or add)
 
 # gitignore
 # git rm -r --cached
 # git add .
 # git commit -m <commit_message>
+
+# conflicts
