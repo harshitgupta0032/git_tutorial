@@ -4,3 +4,7 @@ for( var k in arr ){
 }
 
 console.log("newcommit")
+
+var jsondata = require("./config.json");
+console.log(jsondata.username);
+console.log(jsondata.password);
