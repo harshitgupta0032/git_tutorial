@@ -37,5 +37,13 @@ cat ~/.ssh/<id.pub>
 # step -3
 Add key in github , Open_github_profile -> setting -> ssh and gpg key -> new key -> title and <addyourkey_ssh-rsa>
 
+
 # git ssh doc 
 https://www.geeksforgeeks.org/how-to-generate-public-ssh-or-gpg-keys-using-git-commands/
+
+# test ssh key
+ssh -T git@github.com
+Hi <name>! You've successfully authenticated, but GitHub does not provide shell access 
+
+# check the doc for test ssh
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection
