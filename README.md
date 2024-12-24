@@ -14,7 +14,7 @@ switch branch = git checkout <branch_name> </br>
 check current branch = git branch
 delete a exist branch = git branch -d <branch_name> </br>
 
-pull another branch in main branch </br>
+# pull another branch in main branch 
 git pull origin <branch_name> </br>
 git push origin main <current_branch_name> </br>
 git status = for check the status(update commit or add) </br>
