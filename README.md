@@ -32,3 +32,5 @@ command - ssh-keygen -> enter -> overwrite = y -> enter -> enter -> now we get t
 
 #  step-2 
 cat ~/.ssh/<id.pub>
+# git ssh doc 
+https://www.geeksforgeeks.org/how-to-generate-public-ssh-or-gpg-keys-using-git-commands/
