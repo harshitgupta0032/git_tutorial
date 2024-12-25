@@ -1,5 +1,13 @@
 # git_tutorial
 
+# globaly set git account
+git init 
+git config --global user.name "<Username>"
+git config --global user.email "<Email@gmail.com>"
+
+# check your current username and email
+git config --globle --list
+
 # for Add all file
 add = git add . </br>
 
