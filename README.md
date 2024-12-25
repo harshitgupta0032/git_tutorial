@@ -2,7 +2,7 @@
 
 # globaly set git account
 git init 
-git config --global user.name "<Username>"
+git config --global user.name "Username" </br>
 git config --global user.email "<Email@gmail.com>"
 
 # check your current username and email
